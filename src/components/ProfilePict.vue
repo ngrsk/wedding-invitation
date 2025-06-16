@@ -5,7 +5,7 @@
     <div data-aos="slide-up" class="mt-10 w-full text-center text-slate-800 text-sm">
       <p class="text-gray-50 text-[2rem] font-semibold tangerine-font">{{ source.name }}</p>
       <p class="text-gray-100 mb-3 mt-1 font-semibold">
-        {{ source.name }}, kıymetli anne ve babası {{ source.parents[0] }} & {{ source.parents[1] }}.
+        {{ source.name }}, kıymetli anne ve babası </br> {{ source.parents[0] }} & {{ source.parents[1] }}.
       </p>
       
       
