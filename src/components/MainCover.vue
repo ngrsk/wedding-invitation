@@ -4,7 +4,7 @@
       <div 
         class="animate__animated animate__fadeInUpBig text-gray-100 text-center bg-gray-800 bg-opacity-50 backdrop-blur-sm rounded-t-3xl px-6 py-10">
         
-        <h1 class="tangerine-font text-title font-bold text-3xl">{{ couples.join(' & ') }}</h1>
+        <h1 class="tangerine-font text-title font-bold" style="font-size:44px!important">{{ couples.join(' & ') }}</h1>
         <decoration class="fill-amber-400 mx-auto w-3/12 mb-3"></decoration>
         <p class="text-sm">
           <p class="font-medium">Bu Mutlu Günümüzde Sizleride Yanımızda Görmek Dileğiyle..</p>
