@@ -22,7 +22,7 @@ const countdown = ref(null)
 
 // Handler for countdown
 const createTimer = (target, container, cb) => {
-   // target => UNIX time target
+   const target = new Date('2025-08-04T18:00:00').getTime()
    // Container => variable for return result
    // cb => callback if countdown finish
 
