@@ -1,25 +1,25 @@
 {
 	"couples": [
 		{
-			"name": "Fulan bin Fulan",
+			"name": "Mehmet Emin Elmacı",
 			"sosmed": [
 				{ "icon": "fab fa-instagram", "link": "http://fake.com" },
 				{ "icon": "fab fa-facebook", "link": "http://fake.com" },
 				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
 			],
-			"parents": ["Mehmet", "Malika"],
-			"thumb": "/couples/couple-male.jpg",
+			"parents": ["Murat", "Hamide"],
+			"thumb": "/couples/mehmet.jpg",
 			"address": "Komplek Setia Budi Sentosa Blok 12A Nomor 6 Gang Serunai Asri - Brebes, Jawa Timur"
 		},
 		{
-			"name": "Fulanah binti Fulan",
+			"name": "Malika İsmailova",
 			"sosmed": [
 				{ "icon": "fab fa-instagram", "link": "http://fake.com" },
 				{ "icon": "fab fa-facebook", "link": "http://fake.com" },
 				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
 			],
-			"parents": ["Fulan", "Fulanah"],
-			"thumb": "/couples/couple-female.jpg",
+			"parents": ["Erbolat", "Sagadat"],
+			"thumb": "/couples/malika.jpg",
 			"address": "Komplek Setia Budi Sentosa Blok 12A Nomor 6 Gang Serunai Asri - Brebes, Jawa Timur"
 		}
 	]
