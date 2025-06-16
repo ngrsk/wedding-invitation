@@ -19,9 +19,9 @@
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500"></decoration>
               <p class="text-amber-500">{{ timeline.location }}</p>
               <p class="text-gray-200">{{ timeline.address }}</p>
-              <a class="btn" href="">
+              <a class="btn" href="https://maps.app.goo.gl/yFJQMfv2Twg2utiH7?g_st=iw">
                 <i class="fa-solid fa-map"></i>
-                Lihat Peta
+                Konum
               </a>
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500 rotate-180"></decoration>
             </section>
@@ -32,10 +32,10 @@
             <Countdown></Countdown>
             <!-- Button to Guest Book -->
             <div class="px-6 pt-5 pb-8 text-center">
-              <p class="text-sm text-gray-100">Konfirmasi kehadiran anda pada buku tamu</p>
+              <p class="text-sm text-gray-100">Katılım Durumunuzu Aşağıdaki WhatsApp Üzerinden Bildirin.</p>
               <button @click="goToGuestBook" class="btn">
                 <i class="fa-solid fa-clipboard-check"></i>
-                Konfirmasi
+                WhatsApp
               </button>
             </div>
             <img src="@/assets/images/couples.png" alt="">
