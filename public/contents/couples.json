@@ -7,7 +7,7 @@
 				{ "icon": "fab fa-facebook", "link": "http://fake.com" },
 				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
 			],
-			"parents": ["Fulan", "Fulanah"],
+			"parents": ["Mehmet", "Malika"],
 			"thumb": "/couples/couple-male.jpg",
 			"address": "Komplek Setia Budi Sentosa Blok 12A Nomor 6 Gang Serunai Asri - Brebes, Jawa Timur"
 		},
