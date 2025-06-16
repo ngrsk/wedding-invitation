@@ -33,10 +33,10 @@
             <!-- Button to Guest Book -->
             <div class="px-6 pt-5 pb-8 text-center">
               <p class="text-sm text-gray-100">Katılım Durumunuzu Aşağıdaki WhatsApp Üzerinden Bildirin.</p>
-              <button @click="goToGuestBook" class="btn">
+              <a href="https://wa.me/+77070612696" class="btn">
                 <i class="fa-solid fa-clipboard-check"></i>
                 WhatsApp
-              </button>
+              </a>
             </div>
             <img src="@/assets/images/couple.jpg" alt="">
           </section>
