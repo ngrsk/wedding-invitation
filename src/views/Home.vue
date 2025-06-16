@@ -1,7 +1,6 @@
 <template>
   <section>
     <MainCover id="mainCover"></MainCover>
-    <FirstSight></FirstSight>
     <GroomBride></GroomBride>
     <Timelines v-on:goToGuestBook="navigationHandler('#guest-book')"></Timelines>
     <OurGallery></OurGallery>
