@@ -11,10 +11,7 @@
           </template>
         </div>
       </viewer>
-      <!-- Our Story -->
-      <OurStory class="mt-10"></OurStory>
-      <!-- Our Video -->
-      <OurVideo class="mt-10"></OurVideo>
+     
     </section>
   </section>
 </template>
