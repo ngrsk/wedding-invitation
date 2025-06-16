@@ -22,7 +22,7 @@ const countdown = ref(null)
 
 // Handler for countdown
 const createTimer = (target, container, cb) => {
-   const target = new Date('2025-08-04T18:00:00').getTime()
+   
    // Container => variable for return result
    // cb => callback if countdown finish
 
@@ -44,7 +44,7 @@ const createTimer = (target, container, cb) => {
 }
 
 const timer = setInterval(() => {
-  createTimer(new Date('2022-05-23 08:30').getTime(), countdown, () => {
+  createTimer(new Date('2022-08-04 16:00').getTime(), countdown, () => {
     clearInterval(timer)
   })
 }, 1000)
