@@ -7,9 +7,8 @@
         <h1 class="tangerine-font text-title font-bold">{{ couples.join(' & ') }}</h1>
         <decoration class="fill-amber-400 mx-auto w-3/12 mb-3"></decoration>
         <p class="text-sm">
-          <p class="font-medium">Kepada Bapak/Ibu Yang Terhormat</p>
-          <p class="font-medium my-2 text-lg">{{ query.to }}</p>
-          <small>Izinkan kami turut mengundang anda dalam acara kami</small>
+          <p class="font-medium">Bu Mutlu Günümüzde Sizleride Yanımızda Görmek Dileğiyle..</p>
+          <small>04 Ağustos 2025 18:00</small>
         </p>
       </div>
     </section>
