@@ -31,7 +31,11 @@
           <section class="bg-gray-900">
             <Countdown></Countdown>
             <!-- Button to Guest Book -->
-          
+          <p class="text-sm text-gray-100">Katılım Durumunuzu Bildirmek İçin Çiftimize Ulaşabilirsiniz.</p>
+              <a href="https://wa.me/+77070612696" class="btn">
+                <i class="fa-solid fa-clipboard-check"></i>
+                WhatsApp
+              </a>
             <img src="@/assets/images/couple.jpg" alt="">
           </section>
         </template>
