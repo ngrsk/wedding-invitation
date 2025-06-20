@@ -8,10 +8,10 @@
         <decoration class="fill-amber-400 mx-auto w-3/12 mb-3"></decoration>
         <p class="text-sm">
           <p class="font-medium">
-            Aşkla çıktık yola❤ </br>
-Hasret erdi vuslata💑</br>
-Menzilimiz sonsuza🧿</br>
-Ey Dostlar, kulak verin nidamıza📣</br>
+            Aşkla çıktık yola❤ 
+Hasret erdi vuslata💑
+Menzilimiz sonsuza🧿
+Ey Dostlar, kulak verin nidamıza📣
 Bu mutlu günümüzde olun Sizler de yanımızda🇹🇷  
           </p>
           <small>04 Ağustos 2025 18:00</small>
