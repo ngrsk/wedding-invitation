@@ -12,7 +12,8 @@
 Hasret erdi vuslata💑
 Menzilimiz sonsuza🧿
 Ey Dostlar, kulak verin nidamıza📣
-Bu mutlu günümüzde olun Sizler de yanımızda🇹🇷  
+Bu mutlu günümüzde olun Sizler de yanımızda🇹🇷🇰🇿
+ 
           </p>
           <small>04 Ağustos 2025 18:00</small>
         </p>
