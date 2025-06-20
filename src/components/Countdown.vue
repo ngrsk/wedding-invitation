@@ -29,17 +29,17 @@ const createTimer = (target, container, cb) => {
    const now = new Date().getTime()
    const distance = target - now
    if ( distance > 0 ) {
-     const daysa = Math.floor(distance / (1000 * 60 * 60 * 24));
-     const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-     const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-     const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+     const gun = Math.floor(distance / (1000 * 60 * 60 * 24));
+     const saat = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+     const dakika = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+     const saniye = Math.floor((distance % (1000 * 60)) / 1000);
       
-     container.value = { daysa, hours, minutes, seconds }
+     container.value = { gun, saat, dakika, saniye }
      //alert(JSON.stringify(container))
       
-     if (daysa === 0 && hours === 0 && minutes === 0 && seconds === 0 ) cb()
+     if (gun === 0 && saat === 0 && dakika === 0 && saniye === 0 ) cb()
    } else {
-     container.value = { daysa: 0, hours: 0, minutes: 0, seconds: 0 }
+     container.value = { gun: 0, saat: 0, dakika: 0, saniye: 0 }
    } 
 }
 
